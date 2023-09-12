@@ -8,5 +8,6 @@
 I am not responsible for any problems you will encounter, damage to your computer.<br>
 You run and download these samples at your own risk, not my warning.<br>
 These samples are taken at your own risk, beyond what I caution you to do.<br>
+Some larger samples are split, to unpack please use 7-Zip.<br>
 </p>
 
