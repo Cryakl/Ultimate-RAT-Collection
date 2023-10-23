@@ -14,5 +14,9 @@ Note: I am not responsible for any problems you will encounter.<br>
 You run and download these samples at your own risk, not my warning.<br>
 You agree by downloading to use every sample lawfully and research only.<br>
 These samples are taken at your own risk, beyond what I caution you to do.<br>
+  <br>
+我不为和此存储库的任何责任负责<br>
 </p>
+
+
 
