@@ -4,6 +4,10 @@ Gh0st3.6:
 SocketFlag: Gh0st  
 ![Gh0st](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/2b479326-68c1-4eb8-aa72-d29051de1c7c)
 
+Hunting Bitches V1.0:  
+SocketFlag: FWKJG  
+![HB](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/4a0d2c5a-228d-4721-b9fc-65ce3d9c8a90)
+
 KrisRat:  
 SocketFlag: KrisR   
 ![Kris](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/8423ea5c-c59e-42c0-95d5-9974b7c1fd6b)  
