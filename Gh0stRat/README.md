@@ -1,8 +1,14 @@
 <b>Developer: C.Rufus Security Team</b>
 
+Note: ucuL rat v1.0 is a lazily translated version of Gh0st3.6, no changes otherwise.  
+
 Gh0st3.6:  
 SocketFlag: Gh0st  
 ![Gh0st](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/2b479326-68c1-4eb8-aa72-d29051de1c7c)
+
+Gh0st3.78:  
+SocketFlag: A1CEA  
+![A1CEA](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/6c8afc7e-d602-449e-ab9b-76dd4936d0e7)
 
 Hunting Bitches V1.0:  
 SocketFlag: FWKJG  
@@ -11,6 +17,7 @@ SocketFlag: FWKJG
 KrisRat:  
 SocketFlag: KrisR   
 ![Kris](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/8423ea5c-c59e-42c0-95d5-9974b7c1fd6b)  
+  
 Trivia:  
 This variant includes 'Chat' function and was covered in an AVG Signal Blog in 2016!  
 https://www.avg.com/en/signal/chatted-hacker-virus  
