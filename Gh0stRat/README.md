@@ -23,7 +23,7 @@ SocketFlag: MoZhe
 ![2011gh0st](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/dafc42cb-7e61-426f-8062-e5822bbe2a30)
 
 KrisRat:  
-SocketFlag: KrisR   
+SocketFlag: KrisR (Actually KrisRat, but gets cut off)     
 ![Kris](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/8423ea5c-c59e-42c0-95d5-9974b7c1fd6b)  
   
 Trivia:  
