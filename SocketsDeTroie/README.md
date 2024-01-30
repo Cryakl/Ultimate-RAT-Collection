@@ -1,1 +1,1 @@
-![socks](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/6e7bb76c-c230-4bb5-aa17-3547d7f5fd2e)
+![SocketsDeTroie](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/ead18782-a508-43e5-88c2-c5082aea2a79)
