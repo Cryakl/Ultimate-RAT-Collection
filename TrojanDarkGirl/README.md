@@ -1,1 +1,1 @@
-![trojdark](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/37bc159e-daf0-4869-a60a-92258d5f4da1)
+![TDG](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/bd9fdf40-311a-46f9-b8d7-9c337540f772)
