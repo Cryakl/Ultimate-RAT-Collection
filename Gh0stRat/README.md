@@ -10,6 +10,10 @@ Hackfans:
 SocketFlag: FKJP3  
 ![HACKFANS](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/2990b29e-3f9b-4f31-8832-ea598b6ed45e)
 
+Gh0st3.75:  
+SocketFlag: 00000000  
+![3 75](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/0c6ac33f-458f-430c-9f96-7b2a5786f84b)
+
 Gh0st3.78:  
 SocketFlag: A1CEA  
 ![A1CEA](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/6c8afc7e-d602-449e-ab9b-76dd4936d0e7)
