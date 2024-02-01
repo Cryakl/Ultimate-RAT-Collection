@@ -15,7 +15,7 @@ SocketFlag: A1CEA
 ![A1CEA](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/6c8afc7e-d602-449e-ab9b-76dd4936d0e7)
 
 Hunting Bitches V1.0:  
-SocketFlag: FWKJG  
+SocketFlag: FWKJG (Actually FWKJGH, but gets cut off)   
 ![HB](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/4a0d2c5a-228d-4721-b9fc-65ce3d9c8a90)
 
 MozHe:  
