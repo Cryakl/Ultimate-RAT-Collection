@@ -18,7 +18,7 @@ Hunting Bitches V1.0:
 SocketFlag: FWKJG (Actually FWKJGH, but gets cut off)   
 ![HB](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/4a0d2c5a-228d-4721-b9fc-65ce3d9c8a90)
 
-MozHe:  
+MoZhe:  
 SocketFlag: MoZhe  
 ![2011gh0st](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/dafc42cb-7e61-426f-8062-e5822bbe2a30)
 
