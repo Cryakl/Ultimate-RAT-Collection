@@ -20,7 +20,7 @@ SocketFlag: A1CEA
 
 Gh0st2011:  
 SocketFlag: Gh0st  
-![2011](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/0e42bfbf-b0ed-4615-bac4-4aa150ca9e12)
+![2011](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/e981e452-fee0-45b0-bf71-a9a50bfbb61c)
 
 WindMad:  
 SocketFlag: Heart  
