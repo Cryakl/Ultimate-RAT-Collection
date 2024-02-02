@@ -18,6 +18,10 @@ Gh0st3.78:
 SocketFlag: A1CEA  
 ![A1CEA](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/6c8afc7e-d602-449e-ab9b-76dd4936d0e7)
 
+Gh0st2011:  
+SocketFlag: Gh0st  
+![2011](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/0e42bfbf-b0ed-4615-bac4-4aa150ca9e12)
+
 日月神教VIP专版:  
 SocketFlag: whmhl  
 ![VIP](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/c2170a2d-b5e4-4062-a231-55e2427c1665)
