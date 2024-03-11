@@ -1,4 +1,4 @@
-## Backdoor Info:  
+## Backdoor Info  
 ### Built client will connect to the following:  
 wiznon[.]000webhostapp[.]com/Image.png  
 wiz[.]bounceme[.]net  
