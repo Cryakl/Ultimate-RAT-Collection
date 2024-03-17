@@ -3,4 +3,4 @@
 wiznon[.]000webhostapp[.]com/Image.png  
 wiz[.]bounceme[.]net  
 
-![wizworm](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/079fa748-fb98-4daa-be7f-841fcccc49fd)
+![WizWorm](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/564af0aa-7929-4895-ba19-4aa2e00a7b82)
