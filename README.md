@@ -9,7 +9,7 @@
 
 <p align="center">
 <b>All contributions welcome, please open a pull request if you have anything to add.</b><br>
-<b>If not for you, please contact yuankong666@dnmx.org for private discussion.</b><br>
+<b>If not for you, please contact cryakl@airmail.cc for private discussion.</b><br>
   <br>
 <br>
 Some larger samples are split, to unpack please use 7-Zip.<br>
