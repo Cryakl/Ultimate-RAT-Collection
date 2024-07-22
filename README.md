@@ -5,11 +5,13 @@
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/YuanKong666/Ultimate-RAT-Collection">
 </p>
 
-<h1 align="center">Password: infected</h1>
+<h1 align="center">Archive password: infected</h1>
 
 <p align="center">
 <b>All contributions welcome, please open a pull request if you have anything to add.</b><br>
-<b>If not for you, please contact cryakl@airmail.cc for private discussion.</b><br>
+<b>If not for you, please contact cryakl@airmail.cc for private inquiries.</b><br>
+<br>
+<b>Open discussion/questions about this repository: <a href="https://github.com/yuankong666/Ultimate-RAT-Collection/issues/6">Click here</a> </b><br>
   <br>
 <br>
 Some larger samples are split, to unpack please use 7-Zip.<br>
