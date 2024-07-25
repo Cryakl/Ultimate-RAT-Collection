@@ -1,5 +1,5 @@
-<b>Developer: ksv</b><br>
-<b>Origin: Sweden</b><br>
+<b>Developer: ksv</b>
+<b>Origin: Sweden</b>
 
 <details>
   <summary>Bifrost v1.1.02</summary>
@@ -52,13 +52,8 @@
 </details>
 
 <details>
-  <summary>Bifrost 1.2.1d CryPted By Fares</summary>
+  <summary>Bifrost 1.2.1d CryPted By Fares / Bifrost v1.2d</summary>
   <img src="https://github.com/user-attachments/assets/24d820f0-831e-4bdc-b986-6c934b813920" alt="1" />
-</details>
-
-<details>
-  <summary>Bifrost v1.2d</summary>
-  <img src="https://github.com/user-attachments/assets/874b4f44-5855-4d73-a5b8-84d8a35c21fd" alt="1" />
 </details>
 
 <details>
@@ -75,4 +70,25 @@
   <summary>Bifrost v1.2.1 By K O P R A</summary>
   <img src="https://github.com/user-attachments/assets/8578a833-ff3d-4709-b7bd-6e82ed37011f" alt="1" />
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
