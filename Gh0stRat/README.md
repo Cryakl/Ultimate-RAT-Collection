@@ -1,6 +1,16 @@
-<b>Developer: C.Rufus Security Team</b>
+<b>Developer: C.Rufus Security Team</b><br>
 
-Note: ucuL rat v1.0 is a lazily translated version of Gh0st3.6, no changes otherwise.  
+<details>
+  <summary>ucuL rat v1.0</summary>
+  SocketFlag: Gh0st<br>
+  <img src="https://github.com/user-attachments/assets/c179c3bf-9bf0-4f65-8fb8-ec368107ce45" alt="UcuL" />
+</details>
+
+<details>
+  <summary>Gh0st RAT 1.0 Alpha</summary>
+  SocketFlag: Gh0st<br>
+  <img src="https://github.com/user-attachments/assets/beddd164-07b1-4a4a-a9ba-952a85c6d0c7" alt="Gh0st" />
+</details>
 
 <details>
   <summary>Gh0st3.6</summary>
