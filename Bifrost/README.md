@@ -1,5 +1,5 @@
-<b>Developer: ksv</b>
-<b>Origin: Sweden</b>
+<b>Developer: ksv</b><br>
+<b>Origin: Sweden</b><br>
 
 <details>
   <summary>Bifrost v1.1.02</summary>
