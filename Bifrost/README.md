@@ -1,4 +1,4 @@
-<b>Developer: ksv</b><br>
+<b>Author: ksv</b><br>
 <b>Origin: Sweden</b><br>
 
 <details>
