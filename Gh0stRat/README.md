@@ -14,6 +14,12 @@
 </details>
 
 <details>
+  <summary>Gh0st RAT 2.5</summary>
+  SocketFlag: Gh0st<br>
+  <img src="https://github.com/user-attachments/assets/71ea3ee7-ba32-4b94-a9fd-323d1171fa35" alt="Gh0st" />
+</details>
+
+<details>
   <summary>Mmly</summary>
   SocketFlag: Shado<br>
   <img src="https://github.com/user-attachments/assets/4739143d-345e-4ba3-bb7a-d01d28f76a9f" alt="Mmly" />
