@@ -1,5 +1,5 @@
-<b>Author: Brazil</b><br>
-<b>Origin: Raphael</b><br>
+<b>Author: Raphael</b><br>
+<b>Origin: Brazil</b><br>
 
 Note: Xtreme RAT 3.8 connects to "irc.irc-hispano.org" (IRCBot activity)   
 
