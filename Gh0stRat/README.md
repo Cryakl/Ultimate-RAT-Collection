@@ -8,6 +8,12 @@
 </details>
 
 <details>
+  <summary>ucuL rat v1.1</summary>
+  SocketFlag: KrisR (Actually KrisRat, but gets cut off)<br>
+  <img src="https://github.com/user-attachments/assets/b7a0a831-a150-4be0-82bd-6b138f41fb4a" alt="UcuL" />
+</details>
+
+<details>
   <summary>Gh0st RAT 1.0 Alpha</summary>
   SocketFlag: Gh0st<br>
   <img src="https://github.com/user-attachments/assets/beddd164-07b1-4a4a-a9ba-952a85c6d0c7" alt="Gh0st" />
