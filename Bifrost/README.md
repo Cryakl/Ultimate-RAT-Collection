@@ -71,24 +71,33 @@
   <img src="https://github.com/user-attachments/assets/8578a833-ff3d-4709-b7bd-6e82ed37011f" alt="1" />
 </details>
 
+<details>
+  <summary>Bifrost 1.2.1 zmm@Hotmail.com</summary>
+  <img src="https://github.com/user-attachments/assets/0fd53a27-e785-4e95-b75a-6150b2f62dcb" alt="1" />
+</details>
 
+<details>
+  <summary>Bifrost SpY--HackeR</summary>
+  <img src="https://github.com/user-attachments/assets/3992a186-1458-47ea-901b-ef76a7b667d0" alt="1" />
+</details>
 
+<details>
+  <summary>BifrosT abo fahd hacker</summary>
+  <img src="https://github.com/user-attachments/assets/06e13204-e26d-44bc-a269-9728f5ea016c" alt="1" />
+</details>
 
+<details>
+  <summary>BiFrOsT HaCkEr MuTiR 1.2d</summary>
+  <img src="https://github.com/user-attachments/assets/3333f670-eb25-4584-8f0e-247e7b14f3e9" alt="1" />
+</details>
 
+<details>
+  <summary>Bifrost Palestine 1.2.1</summary>
+  <img src="https://github.com/user-attachments/assets/352f9b5b-6066-4c0e-84c3-fcf686aa1282" alt="1" />
+</details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<details>
+  <summary>Bifrost Nasser Hacker</summary>
+  <img src="https://github.com/user-attachments/assets/86288df3-c64c-4289-ab68-7c9d57c82a35" alt="1" />
+</details>
 
