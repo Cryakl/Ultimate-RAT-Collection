@@ -1,1 +1,1 @@
-![njworm](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/ee36745f-36c8-474d-af3e-8ac9e56bcb42)
+![njw0rm](https://github.com/user-attachments/assets/7a9001e5-7c02-4827-87bc-604edeaf91f5)
