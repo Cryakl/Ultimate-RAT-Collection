@@ -14,7 +14,7 @@
 <b>Open discussion/questions about this repository: <a href="https://github.com/Cryakl/Ultimate-RAT-Collection/issues/6">Click here</a> </b><br>
 <br>
 <br>
-Some larger samples are split, to unpack please use 7-Zip.<br>
+Some larger samples are split, to unpack please use 7-Zip:<br>
 https://www.7-zip.org/download.html<br>
 <br>
 <br>
