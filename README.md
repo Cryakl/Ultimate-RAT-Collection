@@ -18,7 +18,7 @@ Some larger samples are split, to unpack please use 7-Zip:<br>
 https://www.7-zip.org/download.html<br>
 <br>
 <br>
-<sup><sub>I disclaim all liability for any issues arising from the use of these samples.</sub></sup><br>
+<sup><sub>I disclaim all liability for any issues arising from the use of these constructor/builder samples.</sub></sup><br>
 <sup><sub>By downloading them, you acknowledge doing so at your own risk and agree to use them lawfully and solely for research purposes.</sub></sup>
 </p>
 
