@@ -8,7 +8,6 @@
   <img src="https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/bcc818eb-b467-4e9c-a7b0-ea4b3acaab2b" alt="1" />
 </details>
 
-
 <details>
   <summary>lafgr</summary>
   <img src="https://github.com/user-attachments/assets/406a4b65-8c04-4d86-83a0-545418b62f00" alt="1" />
@@ -36,7 +35,7 @@
 
 <details>
   <summary>傀儡机驱动级复活DDoS攻击穿透破防版</summary>
-  <img src="https://github.com/user-attachments/assets/179ff602-40b0-43cc-8f50-224bfcc0c333" alt="1" />
+  <img src="https://github.com/user-attachments/assets/9a0ad10a-f02e-4c9d-af38-b101ebcb0435" alt="1" />
 </details>
 
 <details>
@@ -61,7 +60,7 @@
 
 <details>
   <summary>火云DDoS集群网站攻击软件 VIP穿透破防版</summary>
-  <img src="https://github.com/user-attachments/assets/acdc3faf-e988-4eb7-95e8-c506e21cdff0" alt="1" />
+  <img src="https://github.com/user-attachments/assets/83f3ed0a-f8ac-46b4-9bfb-f976cb98e3b9" alt="1" />
 </details>
 
 <details>
