@@ -13,10 +13,8 @@
 <br>
 <b>Open discussion/questions about this repository: <a href="https://github.com/Cryakl/Ultimate-RAT-Collection/issues/6">Click here</a> </b><br>
 <br>
-<br>
-Some larger samples are split, to unpack please use 7-Zip:<br>
-https://www.7-zip.org/download.html<br>
-<br>
+<b>Some larger samples are split, to unpack please use 7-Zip:</b><br>
+<b>https://www.7-zip.org/download.html</b><br>
 <br>
 <sup><sub>I disclaim all liability for any issues arising from the use of these constructor/builder samples.</sub></sup><br>
 <sup><sub>By downloading them, you acknowledge doing so at your own risk and agree to use them lawfully and solely for research purposes.</sub></sup>
