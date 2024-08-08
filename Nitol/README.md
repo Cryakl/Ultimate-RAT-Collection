@@ -67,3 +67,13 @@
   <summary>相约巴黎DDOS</summary>
   <img src="https://github.com/user-attachments/assets/661453e1-81e4-40f8-b3d6-9e62c8f21ac9" alt="1" />
 </details>
+
+<details>
+  <summary>无情修改版</summary>
+  <img src="https://github.com/user-attachments/assets/7ca29162-083f-46d0-978b-06cbc2ed38be" alt="1" />
+</details>
+
+<details>
+  <summary>블랙디도스한글판</summary>
+  <img src="https://github.com/user-attachments/assets/de9b5a5b-7933-4aef-9992-2413c9f5f439" alt="1" />
+</details>
