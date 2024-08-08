@@ -97,7 +97,7 @@
 </details>
 
 <details>
-  <summary>牧民战天远控[至尊无壳版]</summary>
+  <summary>牧民战天远控[至尊无壳版] (Backdoor:Win32/Yonsole)</summary>
   SocketFlag: OXXMM<br>
   <img src="https://github.com/user-attachments/assets/4c48605a-d28e-4ee0-8005-fc5fef1b6217" alt="VIP" />
 </details>
