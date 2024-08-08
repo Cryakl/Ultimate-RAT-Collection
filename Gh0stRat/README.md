@@ -52,9 +52,8 @@
 <details>
   <summary>KrisRat</summary>
   SocketFlag: KrisR (Actually KrisRat, but gets cut off)<br>
-  <img src="https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/8423ea5c-c59e-42c0-95d5-9974b7c1fd6b" alt="KrisRat" />
-  Trivia:<br>
-  This variant includes 'Chat' function and was covered in an AVG Signal Blog in 2016!<br>
+  <img src="https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/8423ea5c-c59e-42c0-95d5-9974b7c1fd6b" alt="KrisRat"/>
+  <br><br>This variant includes 'Chat' function and was covered in an AVG Signal Blog in 2016!<br>
   https://www.avg.com/en/signal/chatted-hacker-virus<br>
   <img src="https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/c704f586-9649-4e48-a347-c9c332c1357b" alt="1" /> <br>
   <img src="https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/3e74e43b-a2b3-48e6-9533-c6418a6f7aa2" alt="2" /> <br>
