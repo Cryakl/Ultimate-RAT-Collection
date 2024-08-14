@@ -27,6 +27,11 @@
 </details>
 
 <details>
+  <summary>njRAT ACS Edition</summary>
+  <img src="https://github.com/user-attachments/assets/c4e94a74-bbe7-43c0-855b-31904f1c6181" alt="1" />
+</details>
+
+<details>
   <summary>njRAT v0.1.4</summary>
   <img src="https://github.com/user-attachments/assets/382218ca-591d-44ea-a06d-bf1bbb7e8edd" alt="1" />
 </details>
@@ -64,6 +69,11 @@
 <details>
   <summary>njRAT v0.5.2 RedDevil</summary>
   <img src="https://github.com/user-attachments/assets/c8fef31c-1cd3-4885-ad5a-1fe32c523841" alt="1" />
+</details>
+
+<details>
+  <summary>njRAT v0.6.4 - Arabic</summary>
+  <img src="https://github.com/user-attachments/assets/a8d46b71-9d8d-488c-8717-8af62aa0c207" alt="1" />
 </details>
 
 <details>
