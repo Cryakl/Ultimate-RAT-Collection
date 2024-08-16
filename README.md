@@ -9,7 +9,7 @@
 
 <p align="center">
 <b>All contributions welcome, please open a pull request if you have anything to add.</b><br>
-<b>If you want to talk/contribute privately you can message <a href="https://t.me/Cryakl">@Cryakl</a> telegram.</b><br>
+<b>If you want to talk/contribute privately you can message <a href="https://t.me/Cryakl">@Cryakl</a> on telegram.</b><br>
 <br>
 <b>Open discussion/questions about this repository on GitHub <a href="https://github.com/Cryakl/Ultimate-RAT-Collection/issues/6">here.</a> </b><br>
 <br>
