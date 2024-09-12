@@ -8,8 +8,15 @@
 <h1 align="center">Archive password: infected</h1>
 
 <p align="center">
+  
+<br>
+<sup><b>NOTICE:</b> This collection is collected and checked by myself, not a rip/reupload of any other collection, a few have problems:</sub><br>
+<sub>1. VX-Undergrounds builder archive is aggregated from BlackHatRussia: whos owner 'Adrikadi' backdoors every tool with a crypto clipper.</sub><br>
+<sub>2. Other GitHub collections have either unclean or purposely infected collections, including binding everything with a miner/payload.</sub><br>
+<sub>3. If anything here's infected, it's cleaned beforehand/written about if uncleanable, such examples are 'WizWorm' with a backdoor in the stub.</sub><br>
+<sub>4. Cleaned samples include 'MrTeeDol' which had a backdoor embedded in the server itself, which has been removed before uploading.</sub><br>
+<br>
 <b>All contributions welcome, please open a pull request if you have anything to add.</b><br>
-<b>If you want to talk/contribute privately you can message <a href="https://t.me/Cryakl">@Cryakl</a> on telegram.</b><br>
 <br>
 <b>Open discussion/questions about this repository on GitHub <a href="https://github.com/Cryakl/Ultimate-RAT-Collection/issues/6">here.</a> </b><br>
 <br>
