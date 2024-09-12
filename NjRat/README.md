@@ -2,7 +2,10 @@
 <b>Origin: Kuwait</b><br>
 
 <details>
-  <summary>njRAT 0.7D Danger Edition</summary>
+  <summary>njRAT 0.7D Danger Edition (Backdoored)</summary>
+  <br>
+  Stub backdoor C2: hakim32.ddns(.)net<br>
+  <br>
   <img src="https://github.com/user-attachments/assets/6e158c6b-a9ac-490f-899d-6f6b5babfa49" alt="1" />
 </details>
 
@@ -38,11 +41,17 @@
 
 <details>
   <summary>njRAT v0.11G</summary>
+  <br>
+  Stub backdoored upon non-local C2 connection.<br>
+  <br>
   <img src="https://github.com/user-attachments/assets/7b367fb1-6f69-44cb-b2d7-495ec1f23171" alt="1" />
 </details>
 
 <details>
   <summary>njRAT v0.12G</summary>
+  <br>
+  Stub backdoored upon non-local C2 connection.<br>
+  <br>
   <img src="https://github.com/user-attachments/assets/e563d273-04b2-45f7-865f-6603689fdfee" alt="1" />
 </details>
 
