@@ -35,7 +35,7 @@
 </details>
 
 <details>
-  <summary>njRAT ACS Edition< 2.0/summary>
+  <summary>njRAT ACS Edition 2.0</summary>
   <img src="https://github.com/user-attachments/assets/75248ab4-068f-4573-8c08-a1a92bfbdb0c" alt="1" />
 </details>
 
