@@ -29,7 +29,7 @@
   
 <br>
 <sup>2. Other GitHub collections have either unclean or purposely infected collections, including binding everything with a miner/backdoor.</sup><br>
-<sup>For example, if anything here infected, it's cleaned/documented, such examples are 'WizWorm' with a backdoor in the stub.</sup><br>
+<sup>For example, if anything here's infected it's cleaned/documented, such examples are 'WizWorm' with a backdoor in the stub.</sup><br>
 <sup>Cleaned samples include 'MrTeeDol' which had a backdoor embedded in the server itself, which has been removed before uploading.</sup><br>
 <br>
 <sup>3. The purpose of this repo is to provide researchers/malware analysts clean builders to create IOCs/Yara rules.</sup><br>
