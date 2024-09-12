@@ -40,7 +40,7 @@
 </details>
 
 <details>
-  <summary>njRAT v0.11G</summary>
+  <summary>njRAT v0.11G (Backdoored)</summary>
   <br>
   Stub backdoored upon non-local C2 connection.<br>
   <br>
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-  <summary>njRAT v0.12G</summary>
+  <summary>njRAT v0.12G (Backdoored)</summary>
   <br>
   Stub backdoored upon non-local C2 connection.<br>
   <br>
