@@ -35,6 +35,11 @@
 </details>
 
 <details>
+  <summary>njRAT ACS Edition< 2.0/summary>
+  <img src="https://github.com/user-attachments/assets/75248ab4-068f-4573-8c08-a1a92bfbdb0c" alt="1" />
+</details>
+
+<details>
   <summary>njRAT v0.1.4</summary>
   <img src="https://github.com/user-attachments/assets/382218ca-591d-44ea-a06d-bf1bbb7e8edd" alt="1" />
 </details>
