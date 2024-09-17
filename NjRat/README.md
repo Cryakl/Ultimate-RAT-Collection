@@ -71,6 +71,11 @@
 </details>
 
 <details>
+  <summary>njRAT v0.3.6</summary>
+  <img src="https://github.com/user-attachments/assets/74257117-be01-42da-a996-602663383876" alt="1" />
+</details>
+
+<details>
   <summary>njRAT v0.4.1 Fixed</summary>
   <img src="https://github.com/user-attachments/assets/d157aaae-8b67-4370-b5ef-69f375d54d40" alt="1" />
 </details>
