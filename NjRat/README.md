@@ -91,6 +91,11 @@
 </details>
 
 <details>
+  <summary>njRAT v0.7d Error 404</summary>
+  <img src="https://github.com/user-attachments/assets/459d75d3-0286-4dc7-8bc1-7f6fc8196ec7" alt="1" />
+</details>
+
+<details>
   <summary>njRAT v0.7d Golden Edition - Rus</summary>
   <img src="https://github.com/user-attachments/assets/7c38a52e-2a65-4e08-b17c-1cf43684acdf" alt="1" />
 </details>
@@ -118,6 +123,21 @@
 <details>
   <summary>njRAT v0.7d Platinum Edition</summary>
   <img src="https://github.com/user-attachments/assets/b23d652b-0945-4a15-bdd4-54804ee7e64c" alt="1" />
+</details>
+
+<details>
+  <summary>njRAT v0.7d Professional Edition By Dark .NET</summary>
+  <img src="https://github.com/user-attachments/assets/b281b2aa-18e3-471d-ad95-91c9eb5140ee" alt="1" />
+</details>
+
+<details>
+  <summary>njRAT v0.7d Super_a</summary>
+  <img src="https://github.com/user-attachments/assets/669e9a9e-7fbd-456d-82c7-a53b7e18084d" alt="1" />
+</details>
+
+<details>
+  <summary>njRAT v0.7d Ultimate 2017</summary>
+  <img src="https://github.com/user-attachments/assets/0181b438-f3ae-4bc9-8ae0-902f21af6722" alt="1" />
 </details>
 
 <details>
