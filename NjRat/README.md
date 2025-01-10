@@ -141,6 +141,16 @@
 </details>
 
 <details>
+  <summary>njRAT v0.7d Ultimate_f</summary>
+  <img src="https://github.com/user-attachments/assets/5cb44a4d-91ab-4801-a407-d24b414de169" alt="1" />
+</details>
+
+<details>
+  <summary>njRAT v0.7d v.2 GHAWY HACKER EGYPT</summary>
+  <img src="https://github.com/user-attachments/assets/58faa460-45c2-4cc1-802c-409de10f4c5c" alt="1" />
+</details>
+
+<details>
   <summary>njRAT v0.7d</summary>
   <img src="https://github.com/user-attachments/assets/bb783a99-1ccd-4f34-96d1-62f076a4c0fb" alt="1" />
 </details>
