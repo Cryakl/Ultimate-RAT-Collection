@@ -78,11 +78,21 @@
 </details>
 
 <details>
-  <summary>njRAT v0.7d Danger Edition (Backdoored)</summary>
+  <summary>njRAT v0.7d Danger Edition 2017</summary>
+  <img src="https://github.com/user-attachments/assets/1b297385-ee95-4d13-a9b4-d7b62fd1e39e" alt="1" />
+</details>
+
+<details>
+  <summary>njRAT v0.7d Danger Edition 2018 (Backdoored)</summary>
   <br>
   Stub backdoor C2: hakim32.ddns(.)net<br>
   <br>
   <img src="https://github.com/user-attachments/assets/6e158c6b-a9ac-490f-899d-6f6b5babfa49" alt="1" />
+</details>
+
+<details>
+  <summary>njRAT v0.7d Dangerous Edition 2019</summary>
+  <img src="https://github.com/user-attachments/assets/b31190cc-e1b2-4b9c-9c3c-c3366f6f7531" alt="1" />
 </details>
 
 <details>
