@@ -101,6 +101,11 @@
 </details>
 
 <details>
+  <summary>njRAT v0.7d Edition Syria</summary>
+  <img src="https://github.com/user-attachments/assets/5ac8038f-917f-4b44-9bec-77f1e23fc106" alt="1" />
+</details>
+
+<details>
   <summary>njRAT v0.7d Error 404</summary>
   <img src="https://github.com/user-attachments/assets/459d75d3-0286-4dc7-8bc1-7f6fc8196ec7" alt="1" />
 </details>
