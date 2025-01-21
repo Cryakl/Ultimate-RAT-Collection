@@ -72,6 +72,12 @@
 </details>
 
 <details>
+  <summary>Star Rat 3.1</summary>
+  SocketFlag: AZWAZ<br>
+  <img src="https://github.com/user-attachments/assets/0f31f487-4a94-4be7-94e8-7f4fe187bcbd" alt="StarRat" />
+</details>
+
+<details>
   <summary>WindMad RAT Beta 1.0</summary>
   SocketFlag: Heart<br>
   <img src="https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/5ae45400-5a7e-4b4b-98f5-d935de9bf937" alt="WindMad" />
