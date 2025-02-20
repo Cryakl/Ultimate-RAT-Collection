@@ -5,5 +5,5 @@
 
 <details>
   <summary>EagleSpy V4 Interface</summary>
-  <img src="https://github.com/user-attachments/assets/d37a4255-0f0b-4fff-9a50-b30ea4955f24" alt="1" />
+  <img src="https://github.com/user-attachments/assets/20af6a5a-a219-43cf-80d1-6e61028e5023" alt="1" />
 </details>
