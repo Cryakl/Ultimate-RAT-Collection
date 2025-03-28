@@ -1,1 +1,1 @@
-![DigitalRootbeer](https://github.com/user-attachments/assets/5233b044-1568-44b5-84ac-2633680cdd70)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/DigitalRootbeer/Screenshot.png)

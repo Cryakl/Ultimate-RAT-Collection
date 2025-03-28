@@ -1,1 +1,1 @@
-![RPS420](https://github.com/user-attachments/assets/352db349-6724-4695-ae03-29fe2bec663c)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/RPS420Rat/Screenshot.png)

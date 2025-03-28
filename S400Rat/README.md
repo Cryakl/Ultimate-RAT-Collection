@@ -1,1 +1,1 @@
-![S400](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/cbe99629-2afd-42d5-8236-12f926c7a582)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/S400Rat/Screenshot.png)

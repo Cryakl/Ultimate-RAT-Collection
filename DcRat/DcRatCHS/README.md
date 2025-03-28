@@ -1,1 +1,1 @@
-![DcRatChs](https://github.com/user-attachments/assets/2f0dda23-229e-4434-bb93-18e27be2e199)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/DcRat/DcRatCHS/Screenshot.png)

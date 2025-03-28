@@ -1,1 +1,1 @@
-![0](https://github.com/user-attachments/assets/6310e0c8-3df9-4513-b826-4ad633d53d53)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/G700Rat/G-700RATV5/Screenshot.png)

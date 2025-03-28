@@ -1,4 +1,1 @@
-<b>Author: JCzic</b><br>
-<b>Origin: France</b><br>
-
-![SocketsDeTroie](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/ead18782-a508-43e5-88c2-c5082aea2a79)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/SocketsDeTroie/Screenshot.png)

@@ -1,1 +1,1 @@
-![FrankensteinTrojan](https://github.com/user-attachments/assets/d0d617bc-1719-4280-84a4-11009c5db665)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/FrankensteinTrojan/Screenshot.png)

@@ -1,1 +1,1 @@
-![Helminth](https://github.com/user-attachments/assets/16063349-75c5-4167-b795-eb2e9b13611e)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Helminth/Screenshot.png)

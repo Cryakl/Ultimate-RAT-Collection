@@ -1,1 +1,1 @@
-![BillGates](https://github.com/user-attachments/assets/57889ecb-a293-41cb-8a31-bdaa536c4250)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/BillGates/Screenshot.png)

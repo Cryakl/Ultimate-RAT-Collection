@@ -1,1 +1,1 @@
-![Mirai](https://github.com/user-attachments/assets/b04ac488-d42a-43bf-89ab-4ed0831df975)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/MiraiEy3Rat/Screenshot.png)

@@ -1,4 +1,1 @@
-<details>
-  <summary>Screenshot (WARNING: Offensive Imagery)</summary>
-  <img src="https://github.com/user-attachments/assets/2cd35536-8574-4edd-b610-9f4dcf74a001" alt="1" />
-</details>
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/EverSpy/Mods/ZMRat/Screenshot.png)

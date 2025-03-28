@@ -1,1 +1,1 @@
-![熊猫小恶魔远程管理](https://github.com/user-attachments/assets/1ef35155-9a5b-44c9-b81f-0a413f2ca71a)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/SilverFox/%e7%86%8a%e7%8c%ab%e5%b0%8f%e6%81%b6%e9%ad%94%e8%bf%9c%e7%a8%8b%e7%ae%a1%e7%90%86/Screenshot.png)

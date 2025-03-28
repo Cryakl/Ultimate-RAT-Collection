@@ -1,1 +1,1 @@
-![QuickPro](https://github.com/user-attachments/assets/aa8a6586-b8e7-4bcb-adb8-1cd5209529f3)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/SilverFox/Winos%20Pro%20%e7%89%88%e6%9c%ac/Screenshot.png)

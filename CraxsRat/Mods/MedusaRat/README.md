@@ -1,1 +1,1 @@
-![Medusa](https://github.com/user-attachments/assets/e7fd7d2e-0d4b-422b-b8c8-810500cde25d)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/CraxsRat/Mods/MedusaRat/Screenshot.png)

@@ -1,1 +1,1 @@
-![L6-Rat](https://github.com/user-attachments/assets/a13dfabf-c06c-49fe-900c-238535938d36)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/L6Rat/Screenshot.png)

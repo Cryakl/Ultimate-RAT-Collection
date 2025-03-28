@@ -1,1 +1,1 @@
-![Only1](https://github.com/user-attachments/assets/8a4c445d-c43e-4a71-9c99-97f04429bd07)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/0nly1Rat/Screenshot.png)

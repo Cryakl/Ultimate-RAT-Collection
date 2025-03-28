@@ -1,1 +1,1 @@
-![ShadowRoot](https://github.com/user-attachments/assets/bb6947d6-320f-47cd-80e9-0a466472b1e8)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/ShadowRoot/Screenshot.png)

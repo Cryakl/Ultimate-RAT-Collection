@@ -1,1 +1,1 @@
-![nunks](https://github.com/user-attachments/assets/18fd8de8-07ac-4772-8d33-05b96fef22e1)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/TrojanNunks/Screenshot.png)

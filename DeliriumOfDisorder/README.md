@@ -1,3 +1,1 @@
-<b>Author: Splinter</b><br>
-
-![DeliriumOfDisorder](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/22995d11-aaec-469d-9b96-2809a36b41f3)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/DeliriumOfDisorder/Screenshot.png)

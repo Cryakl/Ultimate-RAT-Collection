@@ -1,1 +1,1 @@
-![OrcaBot](https://github.com/user-attachments/assets/fa03bcef-b423-4bc9-8354-eb2d756bb309)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/OrcaBot/Screenshot.png)

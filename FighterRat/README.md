@@ -1,1 +1,1 @@
-![FighterRat](https://github.com/user-attachments/assets/877505a4-cec0-4383-9c1f-649bb9fc1622)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/FighterRat/Screenshot.png)

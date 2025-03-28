@@ -1,1 +1,1 @@
-![DarkVirus](https://github.com/user-attachments/assets/8021800a-6446-474b-917a-2e2a0e17774d)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/DarkVirusRat/Screenshot.png)

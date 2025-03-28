@@ -1,1 +1,1 @@
-![X-NeT](https://github.com/user-attachments/assets/bc2e59a3-068c-458c-b971-55553daca5df)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/XNeT/Screenshot.png)

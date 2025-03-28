@@ -1,1 +1,1 @@
-![MasudRana](https://github.com/user-attachments/assets/45d0854d-b5bf-4f2f-a131-4f5f29ef7434)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/MasudRana/Screenshot.png)

@@ -1,1 +1,1 @@
-![NCodec](https://github.com/user-attachments/assets/a4536b85-8f9a-4bf1-b118-1cbfc9cfdda1)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/NCodecRat/Screenshot.png)

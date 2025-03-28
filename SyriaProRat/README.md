@@ -1,1 +1,1 @@
-![SyriaPro](https://github.com/user-attachments/assets/361055db-f008-4ec7-8cbf-b385ee0f1b8f)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/SyriaProRat/Screenshot.png)

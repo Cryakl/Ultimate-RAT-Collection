@@ -1,3 +1,1 @@
-<b>Author: CHeeSeR</b><br>
-
-![AOLAdmin](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/d2da6da1-0455-4c5b-804c-91a80decd408)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/AOLAdmin/Screenshot.png)

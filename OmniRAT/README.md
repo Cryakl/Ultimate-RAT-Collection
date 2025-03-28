@@ -1,1 +1,1 @@
-![OmniRatApk](https://github.com/user-attachments/assets/46cdd0e8-69fb-437a-a29e-67494d497506)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/OmniRAT/Screenshot.png)

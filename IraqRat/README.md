@@ -1,1 +1,1 @@
-![IraqRat](https://github.com/user-attachments/assets/1b69ec31-f122-4d54-8a96-bdcdac9a66bf)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/IraqRat/Screenshot.png)

@@ -1,1 +1,1 @@
-![ShadowWorm](https://github.com/user-attachments/assets/707f2588-1274-4d47-9eb7-b45acfdaf128)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/ShadowW0rm/Screenshot.png)

@@ -1,0 +1,1 @@
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Nitol/%e5%a4%a9%e7%bd%9aV7%e9%9b%86%e7%be%a4%e5%8e%8b%e5%8a%9b%e6%b5%8b%e8%af%95%e7%b3%bb%e7%bb%9f/Screenshot.png)

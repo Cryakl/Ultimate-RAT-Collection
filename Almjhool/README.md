@@ -1,1 +1,1 @@
-![almjhool](https://github.com/user-attachments/assets/ce1bd235-f44f-4dc2-bf72-54fd969ee978)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Almjhool/Screenshot.png)

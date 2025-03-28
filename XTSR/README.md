@@ -1,1 +1,1 @@
-![xTSR](https://github.com/user-attachments/assets/b04377a5-2a31-4f06-aab3-82b16a5596f3)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/XTSR/Screenshot.png)

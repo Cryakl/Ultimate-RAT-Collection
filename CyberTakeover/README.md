@@ -1,1 +1,1 @@
-![CyberTakeover](https://github.com/user-attachments/assets/cb8ce6df-0f55-4b9d-94c4-34b61b0c5652)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/CyberTakeover/Screenshot.png)

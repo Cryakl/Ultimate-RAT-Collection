@@ -1,1 +1,1 @@
-![Splinter](https://github.com/user-attachments/assets/8ba224fb-7c43-4131-9e15-b576f9d62b26)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/SplinterRat/Screenshot.png)

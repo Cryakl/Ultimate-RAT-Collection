@@ -1,1 +1,1 @@
-![KulaRat](https://github.com/user-attachments/assets/8a892b79-de84-4411-9183-56abe9d102da)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/KulaRat/Screenshot.png)

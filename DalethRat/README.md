@@ -1,1 +1,1 @@
-![Daleth](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/b7418305-785f-4205-93c9-7ae54c75528c)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/DalethRat/Screenshot.png)

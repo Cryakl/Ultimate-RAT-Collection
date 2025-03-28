@@ -1,1 +1,1 @@
-![DarkRAT](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/eb47aebe-fa63-4b01-888b-9074a781e08f)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/DarkRat/Screenshot.png)

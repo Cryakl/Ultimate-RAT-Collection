@@ -1,3 +1,1 @@
-<b>Author: Njord of KrOme Corp</b><br>
-
-![PhaseZero](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/ec40ed09-7a8d-4e59-8404-d66cfeb20245)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/PhaseZero/Screenshot.png)

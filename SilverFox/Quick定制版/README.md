@@ -1,1 +1,1 @@
-![Quick定制版](https://github.com/user-attachments/assets/83000968-be7e-4cf1-8e53-e79d5500b6fd)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/SilverFox/Quick%e5%ae%9a%e5%88%b6%e7%89%88/Screenshot.png)

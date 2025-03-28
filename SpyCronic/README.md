@@ -1,1 +1,1 @@
-![SpyCronic](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/911661cf-01f2-4d41-9a05-84d511848250)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/SpyCronic/Screenshot.png)

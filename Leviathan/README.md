@@ -1,1 +1,1 @@
-![Leviathan](https://github.com/user-attachments/assets/28c6ca4f-f3b8-4b3f-9816-fccd660c1763)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Leviathan/Screenshot.png)

@@ -1,1 +1,1 @@
-![Capture](https://github.com/user-attachments/assets/9d7142b5-5103-4345-baba-80305dfa1c05)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/NjRat/RootRAT/Screenshot.png)

@@ -1,1 +1,1 @@
-![spynetwork](https://github.com/user-attachments/assets/b13e6fa8-e394-485c-8de9-d3fb59138f65)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/SpyNetworkRat/Screenshot.png)

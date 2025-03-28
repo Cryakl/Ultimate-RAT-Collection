@@ -1,0 +1,1 @@
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Rejoice/%e3%80%90HACK%e5%ad%a6%e4%b9%a0%e5%86%85%e9%83%a8%e3%80%91%e6%97%a0%e5%90%8e%e9%97%a8%e4%b8%8d%e5%85%8d%e6%9d%80%e8%bf%9c%e6%8e%a7/Screenshot.png)

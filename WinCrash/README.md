@@ -1,4 +1,1 @@
-<b>Author: Terminal Crasher, M@niac_Teen</b><br>
-<b>Origin: Brazil</b><br>
-
-![wincrash](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/e6406191-0c6b-43ab-9352-bac2b1c67c93)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/WinCrash/Screenshot.png)

@@ -1,1 +1,1 @@
-![CrashCool](https://github.com/user-attachments/assets/00368879-7dc8-42fc-9402-ec3499eda768)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/CrashCool/Screenshot.png)

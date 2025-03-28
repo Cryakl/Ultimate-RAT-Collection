@@ -1,1 +1,1 @@
-![NetSphereClient](https://github.com/user-attachments/assets/5c591340-c291-444c-bf0c-f395884a0a00)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/NetSphere/Screenshot.png)

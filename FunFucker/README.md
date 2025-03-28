@@ -1,3 +1,1 @@
-<b>Author: GermanDarknes</b><br>
-
-![FunFucker](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/320e188b-a4c8-44e5-8455-cdbd398b5f36)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/FunFucker/Screenshot.png)

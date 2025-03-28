@@ -1,1 +1,1 @@
-![Euclid](https://github.com/user-attachments/assets/80e009ea-2225-4e36-91a5-0541b860a943)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/NonEuclid/Screenshot.png)

@@ -1,3 +1,1 @@
-<b>Author: KFC Watermelon</b><br>
-
-![Luminosity](https://github.com/yuankong666/Ultimate-RAT-Collection/assets/128066597/ef984ab6-dfd3-4b49-a5ec-3358c9ff1cc1)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/LuminosityLink/Screenshot.png)

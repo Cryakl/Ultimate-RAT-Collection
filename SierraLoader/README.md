@@ -1,1 +1,1 @@
-![Sierra](https://github.com/user-attachments/assets/e80ede04-acec-4bd9-919b-64442eba3f89)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/SierraLoader/Screenshot.png)

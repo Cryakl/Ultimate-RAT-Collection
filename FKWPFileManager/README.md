@@ -1,1 +1,1 @@
-![FKWPFileManager](https://github.com/user-attachments/assets/4974690a-22c9-4675-92bc-90fdac958be7)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/FKWPFileManager/Screenshot.png)

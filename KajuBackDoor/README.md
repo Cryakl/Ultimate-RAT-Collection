@@ -1,1 +1,1 @@
-![KajuBackDoor](https://github.com/user-attachments/assets/0a9667d5-5621-4146-b1e7-245c3df0f755)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/KajuBackDoor/Screenshot.png)

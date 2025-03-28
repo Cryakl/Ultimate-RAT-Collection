@@ -1,1 +1,1 @@
-![BigShark](https://github.com/user-attachments/assets/ea299ef6-0a25-4c0f-a333-e58c1fd86d6d)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/CraxsRat/Mods/BigSharkRat/Screenshot.png)

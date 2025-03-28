@@ -1,1 +1,1 @@
-![DarkDdoser](https://github.com/user-attachments/assets/9e8170df-6097-4e8c-be08-0886819a3cf8)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/DarkDDoSer/Screenshot.png)
