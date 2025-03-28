@@ -9,7 +9,7 @@
 <p align="center">
 <b>Contributions welcome, please open a pull request if you have anything to add.</b><br>
 <br>
-<b>Open discussion/questions about this repository on GitHub <a href="https://github.com/Cryakl/Ultimate-RAT-Collection/issues/6">here.</a> </b><br>
+<b>TODO:</b> Update the README's to match screenshots.<br>
 <br>
 <b>Some larger samples are split, to unpack please use 7-Zip:</b><br>
 <b>https://www.7-zip.org/download.html</b><br>
