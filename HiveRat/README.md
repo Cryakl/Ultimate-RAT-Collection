@@ -12,7 +12,7 @@
   <img src="https://github.com/user-attachments/assets/61d08f7a-be51-4826-a478-a22d7ded80a2" alt="2" /><br><br>
   Here, now we can see the password in the stub is 'AESPassword' which concludes the analysis now.<br><br>
   <img src="https://github.com/user-attachments/assets/5f233d0f-abf6-4fc2-bf52-7bc3d30fb5ae" alt="3" /><br><br>
-  Now if we listen on port '6969' with the password set to 'AESPassword' we can allow 'bin.exe; to connect as a client.<br><br>
+  Now if we listen on port '6969' with the password set to 'AESPassword' we can allow 'bin.exe' to connect as a client.<br><br>
   Feel free to use this knowledge to analyze/research HiveRat via locahost/lan.<br>
 </details>
 
