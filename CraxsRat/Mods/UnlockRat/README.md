@@ -1,1 +1,1 @@
-![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/UnlockRat/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Mods/UnlockRat/Screenshot.png)
