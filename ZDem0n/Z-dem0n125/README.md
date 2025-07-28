@@ -1,1 +1,1 @@
-![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/ZDemon/Z-dem0n125/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/ZDem0n/Z-dem0n125/Screenshot.png)
