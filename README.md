@@ -1,25 +1,23 @@
 <p align="center">
-  <img width="128" height="128" src="https://user-images.githubusercontent.com/128066597/264610335-49e0a590-20fd-4b0a-b8e3-05e9aa137cdc.png">
-</p>
-<p align="center">
-<img alt="Repo Size" src="https://img.shields.io/github/repo-size/Cryakl/Ultimate-RAT-Collection">
-</p>
-<h1 align="center">Archive password: infected</h1>
-<p align="center">
-<p align="center">
-<br>
-<b>Contributions welcome, please open a pull request if you have anything to add.</b><br>
-<!--- Excuse my terrible formatting, i'm not good at markdown. --->
-<br>
-<b>Some larger samples are split, to unpack please use 7-Zip:</b><br>
-<b>https://www.7-zip.org/download.html</b><br>
-<br>
+<img width="152" height="152" src="https://github.com/user-attachments/assets/9f6953de-0437-4435-a817-3a7619a6af09"><br>
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/Cryakl/Ultimate-RAT-Collection"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Cryakl/Ultimate-RAT-Collection">
+</p> <!-- Excuse this chunky part, i'm terrible at markdown. But hopefully this redesign is good enough. --!>
+
+<h1 align="center">Archive password: infected</h1><br>
+
+> [!CAUTION]
+> These samples should **not** be ran on any machine with data you care about.  
+> Please analyze them within a secure environment such as a virtual machine or sandbox.
+
+> [!NOTE]  
+> If you have any new samples, all contributions are fully welcomed.  
+> You can open a pull request *or* contact me privately on Telegram at [@Cryakl](https://t.me/Cryakl).  
+
+> [!TIP]  
+> Some much larger samples are split into several parts.  
+> Please use [7-Zip](https://www.7-zip.org/download.html) to extract these split archives without issues.
+
 <h1></h1>
-<p align="center">
-<sub>I disclaim all liability for any issues arising from the use of these constructor/builder samples.</sub><br>
-<sub>Always run any constructor or builder in a controlled testing environment, such as a virtual machine.</sub><br>
-<sub>These samples may be used for analysis, detection rule development, IOC extraction, or studying threat actor TTPs.</sub><br>
-<sub>By downloading these samples, you accept all the terms and agree to use them legally and solely for research purposes.</sub>
-</p>
 
-
+**Disclaimer:**
+> This repo contains genuine malware builders. Do not run them on your system unless you fully know what you're doing. You should use a isolated test environment (eg: VM, sandbox) to research, analyze or reverse engineer these samples. By downloading any samples, you accept full responsibility and agree to use the contents legally and ethically.  
