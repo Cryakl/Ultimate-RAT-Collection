@@ -20,6 +20,4 @@
 <h1></h1>
 
 **Disclaimer:**
-> This repo contains genuine malware builders. Do not run them on your system unless you fully know what you're doing.  
-> You should use a isolated test environment (eg: VM, sandbox) to research, analyze or reverse engineer these samples.  
-> By downloading any samples, you accept full responsibility and agree to use the contents legally and ethically.  
+> This repo contains genuine malware builders. Do not run them on your system unless you fully know what you're doing. You should use a isolated test environment (eg: VM, sandbox) to research, analyze or reverse engineer these samples. By downloading any samples, you accept full responsibility and agree to use the contents legally and ethically.  
