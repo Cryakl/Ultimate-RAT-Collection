@@ -10,4 +10,4 @@
 > The stub has a backdoor and will connect to the following URLs:  
 > hacksx.top  
 
-![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Gh0stCringe/GodRAT/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Gh0stCringe/GodRAT%20V3.5/Screenshot.png)
