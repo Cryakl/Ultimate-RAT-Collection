@@ -11,7 +11,7 @@
 
 > [!NOTE]  
 > If you have any new samples, all contributions are fully welcomed.  
-> You can open a pull request *or* contact me privately on Telegram at [@Cryakl](https://t.me/Cryakl).  
+> Please open a pull request with the new sample if you are interested.  
 
 > [!TIP]  
 > Some much larger samples are split into several parts.  
