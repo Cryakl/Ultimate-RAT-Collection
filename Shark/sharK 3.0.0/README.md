@@ -1,1 +1,1 @@
-![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Shark/Shark%203.0.0/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Shark/sharK%203.0.0/Screenshot.png)
