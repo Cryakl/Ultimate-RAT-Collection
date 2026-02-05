@@ -1,0 +1,1 @@
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/Gh0stRat/%e7%bc%98%e8%81%9a%e7%bd%91%e5%a4%a7%e4%bc%97%e7%89%88%e8%bf%9c%e7%a8%8b%e7%ae%a1%e7%90%86%e7%b3%bb%e7%bb%9f%20V%201.3/Screenshot.png)
