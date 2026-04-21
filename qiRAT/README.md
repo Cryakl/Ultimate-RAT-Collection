@@ -1,1 +1,1 @@
-<img src="https://github.com/rafosw/qiRAT/blob/main/ss/Screenshot_6.png?raw=true" width="600" height="350" />
+<img width="759" height="543" alt="image" src="https://github.com/user-attachments/assets/ee2b0a9c-d671-4e63-8530-0e41eb659f98" />
