@@ -1,0 +1,1 @@
+![Screenshot](https://raw.githubusercontent.com/Cryakl/Ultimate-RAT-Collection/refs/heads/main/LiberiumRat/Mods/%d0%9a%d0%b0%d1%81%d1%82%d0%be%d0%bc%20%d0%9b%d0%b8%d0%b1%d0%ba%d0%b0%202.3/Screenshot.png)
